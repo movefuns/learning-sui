@@ -20,22 +20,21 @@
 
 | 档期                                                                                           | 主题                                              | 嘉宾                                                    | 视频                                                                           |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------------|
-| 2023-02-08 | **Sui Move Example Book 领读**                    | **UVD** @MoveFunsDAO 核心成员                           | [Youtube](https://youtu.be/t69v_gVfQQg) <br>[Bilibili](https://t.co/s1Z3av5oVw) |
-| 2023-02-25 | **Web3 DApp 如何构建？—— 模块化应用和 Move 视角** | **Jolestar** @RoochNetwork 首席架构师 & Move 语言贡献者 | [Youtube](https://youtu.be/XB2Nq63o3v8) <br>[Bilibili](https://t.co/CGuyIJNEDe) |
-| 2023-03-01 | **Sui 上的 Twitter —— Dmens 合约源码分析**        | **beyond** @ComingChat 首席区块链工程师                  | [Youtube](https://youtu.be/8xWL9Rp9S3E) <br>[Bilibili](https://t.co/fYdF9UwOK5) |
-| 2023-03-22 | **Sui 上质押协议**                    | **IceFox**                            | [Youtube](https://www.youtube.com/watch?v=n0XuoQSMCzY) |
-| 2023-03-39 | **dddappp 低代码开发平台** | **杨婕峰**  | [Youtube](https://www.youtube.com/watch?v=tFnHwhYrgaU) |
-| 2023-04-12 | **Move Prover 应用实践**        | **xu dong** @Movebit                   | [Youtube](https://www.youtube.com/watch?v=ImfpjezaeJU) |
-| 2023-04-19 | **如何在 Sui 上从零实现 NFT 交易市场**                    | **王玉松**                            | [Youtube](https://www.youtube.com/watch?v=JsZXB59y1pQ) |
-| 2023-05-16 | **Sui Move Object 讲解** | **UVD**  | [Youtube](https://www.youtube.com/watch?v=VYttU13a21U) |
-| 2023-05-25 | **Sui Move Framework 讲解**        | **UVD**                    | [Youtube](https://www.youtube.com/watch?v=FwKlEdEifNk) |
-| 2023-06-19 | **Sui Move 可编程交易**                    | **Icefox**                            | [Youtube](https://www.youtube.com/watch?v=KcioL82cDmw) |
-| 2023-08-02 | **Deepbook 与其他订单簿模式的去中心化交易所的异同** | **ADU**  | [Youtube](https://www.youtube.com/watch?v=FPhrH2xld3w) |
-| 2023-08-16 | **Sui 上的全链借贷**        | **beyond** @OmniBTC                   | [Youtube](https://www.youtube.com/watch?v=yCp0EhXMfSY) |
-| 2023-08-24 | **Sui 上期权的现况与未来发展方向**                    | **Tommy**@Typus Finance                            | [Youtube](https://www.youtube.com/watch?v=sC-27jUIxHA) |
-| 2023-08-02 | **https://www.youtube.com/watch?v=bYoablbK1zs** | **Orion**@MoveBit  | [Youtube](https://www.youtube.com/watch?v=bYoablbK1zs) |
-| 2023-08-16 | **zklogin 介绍和入门**        | **nanne** @zkmove                   | [Youtube](https://www.youtube.com/watch?v=igh-wYkv2sg) |
-
+| 2023-02-08 | Sui Move Example Book 领读                    | UVD @MoveFunsDAO 核心成员                           | [Youtube](https://youtu.be/t69v_gVfQQg) <br>[Bilibili](https://t.co/s1Z3av5oVw) |
+| 2023-02-25 | Web3 DApp 如何构建？—— 模块化应用和 Move 视角 | Jolestar @RoochNetwork 首席架构师 & Move 语言贡献者 | [Youtube](https://youtu.be/XB2Nq63o3v8) <br>[Bilibili](https://t.co/CGuyIJNEDe) |
+| 2023-03-01 | Sui 上的 Twitter —— Dmens 合约源码分析        | beyond @ComingChat 首席区块链工程师                  | [Youtube](https://youtu.be/8xWL9Rp9S3E) <br>[Bilibili](https://t.co/fYdF9UwOK5) |
+| 2023-03-22 | Sui 上质押协议                    | IceFox                            | [Youtube](https://www.youtube.com/watch?v=n0XuoQSMCzY) |
+| 2023-03-39 | dddappp 低代码开发平台 | 杨婕峰  | [Youtube](https://www.youtube.com/watch?v=tFnHwhYrgaU) |
+| 2023-04-12 | Move Prover 应用实践        | xu dong @Movebit                   | [Youtube](https://www.youtube.com/watch?v=ImfpjezaeJU) |
+| 2023-04-19 | 如何在 Sui 上从零实现 NFT 交易市场                    | 王玉松                            | [Youtube](https://www.youtube.com/watch?v=JsZXB59y1pQ) |
+| 2023-05-16 | Sui Move Object 讲解 | UVD  | [Youtube](https://www.youtube.com/watch?v=VYttU13a21U) |
+| 2023-05-25 | Sui Move Framework 讲解        | UVD                    | [Youtube](https://www.youtube.com/watch?v=FwKlEdEifNk) |
+| 2023-06-19 | Sui Move 可编程交易                    | Icefox                            | [Youtube](https://www.youtube.com/watch?v=KcioL82cDmw) |
+| 2023-08-02 | Deepbook 与其他订单簿模式的去中心化交易所的异同 | ADU  | [Youtube](https://www.youtube.com/watch?v=FPhrH2xld3w) |
+| 2023-08-16 | Sui 上的全链借贷        | beyond @OmniBTC                   | [Youtube](https://www.youtube.com/watch?v=yCp0EhXMfSY) |
+| 2023-08-24 | Sui 上期权的现况与未来发展方向                    | Tommy@Typus Finance                            | [Youtube](https://www.youtube.com/watch?v=sC-27jUIxHA) |
+| 2023-08-02 | https://www.youtube.com/watch?v=bYoablbK1zs | Orion@MoveBit  | [Youtube](https://www.youtube.com/watch?v=bYoablbK1zs) |
+| 2023-08-16 | zklogin 介绍和入门        | nanne @zkmove                   | [Youtube](https://www.youtube.com/watch?v=igh-wYkv2sg) |
 
 
 ## Move 共学社区第三期
