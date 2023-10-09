@@ -16,6 +16,12 @@
 - [Move Patterns](https://www.move-patterns.com/) - A book on Move software design patterns maintained by [@villesundell](https://github.com/villesundell).
 
 
+## SUI MOVE中文系列课程
+> Sui Move Intro Course 配套中文教程 共计21节
+- [bilibili](https://www.bilibili.com/video/BV1RY411v7YU) 
+- [Youtube](https://www.youtube.com/watch?v=lZHjmo2ngu0)
+
+
 # Move Weekly Share
 
 | 档期                                                                                           | 主题                                              | 嘉宾                                                    | 视频                                                                           |
