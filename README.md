@@ -58,5 +58,19 @@
 ## AntAlpha Labs Move Hacker House 
 > @Dali September 2023
 
+| 分享日期                                                                                           | 主题                                              | 嘉宾                                                    | 视频                                                                           |
+|-----------|---------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------------|
+| 2023/09/04 | Sui Move | Henry                       | [Youtube](https://www.youtube.com/watch?v=G6r5oUcM87Q) |
+| 2023/09/05 | Why move  | Jolestar @RoochNetwork 首席架构师 & Move 语言贡献者 | [Youtube](https://www.youtube.com/watch?v=zMkGUMNKdc8) |
+| 2023/09/06 | LSD & Sui经济模型 | UVD                | [Youtube](https://www.youtube.com/watch?v=8OxyioLfRLA) |
+| 2023/09/07 | Sui 生态                    | UVD                            | [Youtube](https://www.youtube.com/watch?v=8NHDPm2GmEU) |
+| 2023/09/08 | Sui同质化代币 | Henry  | [Youtube](hhttps://www.youtube.com/watch?v=Ko28TVR6RXw) |
+| 2023/09/09 | Move的历史和机遇        | Jolestar @RoochNetwork                  | [Youtube](https://www.youtube.com/watch?v=J8jG7eZReiE) |
+| 2023/09/10 | 黑客松参赛小技巧                    | 李大狗@NonceGeekDAO                           | [Youtube](https://www.youtube.com/watch?v=mrRy8qfZPVE) |
+| 2023/09/11 | Move examples book | UVD  | [Youtube](https://www.youtube.com/watch?v=wsKj4BMncV8) |
+| 2023/09/12 | Sui 对象安全        | Leon@MoveBit                  | [Youtube](https://www.youtube.com/watch?v=WEBRZpTXGnc) |
+| 2023/09/13 | Sui Deep Book                   | Jian@Mysten labs                            | [Youtube](https://www.youtube.com/watch?v=cH3ehg_WO6M) |
+| 2023/09/14 | Coinflip  V1 to V2 | Justa@bucketprotocol  | [Youtube](https://www.youtube.com/watch?v=WRiK6jln7hY) |
+
 
 ## Sui WeChat
