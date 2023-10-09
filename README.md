@@ -33,7 +33,7 @@
 | 2023-08-02 | Deepbook 与其他订单簿模式的去中心化交易所的异同 | ADU  | [Youtube](https://www.youtube.com/watch?v=FPhrH2xld3w) |
 | 2023-08-16 | Sui 上的全链借贷        | beyond @OmniBTC                   | [Youtube](https://www.youtube.com/watch?v=yCp0EhXMfSY) |
 | 2023-08-24 | Sui 上期权的现况与未来发展方向                    | Tommy@Typus Finance                            | [Youtube](https://www.youtube.com/watch?v=sC-27jUIxHA) |
-| 2023-08-02 | https://www.youtube.com/watch?v=bYoablbK1zs | Orion@MoveBit  | [Youtube](https://www.youtube.com/watch?v=bYoablbK1zs) |
+| 2023-08-02 | Move 生态多签介绍与安全指南 | Orion@MoveBit  | [Youtube](https://www.youtube.com/watch?v=bYoablbK1zs) |
 | 2023-08-16 | zklogin 介绍和入门        | nanne @zkmove                   | [Youtube](https://www.youtube.com/watch?v=igh-wYkv2sg) |
 
 
