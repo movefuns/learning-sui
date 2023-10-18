@@ -79,4 +79,23 @@
 | 2023/09/14 | Coinflip  V1 to V2 | Justa@bucketprotocol  | [Youtube](https://www.youtube.com/watch?v=WRiK6jln7hY) |
 
 
+## MoveFuns DAO Move DevConf
+-> @online 2022年10月
+| 分享日期                                                                                           | 主题                                              | 嘉宾                                                    | 视频                                                                           |
+|-----------|---------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------------|
+| 2022/10/27 | Move On Sui | Sam @ Mysten Labs                       | [bilibili](https://www.bilibili.com/video/BV1KG4y1f7U5) |
+| 2022/10/27  | Move Prover 的使用技巧  | 0xyilu@MoveBit | [bilibili](https://www.bilibili.com/video/BV1cd4y1c7vk) |
+| 2022/10/27  | Move 安全编程要点 |  jun zhao@MoveBit              | [bilibili](https://www.bilibili.com/video/BV1s841187ny) |
+| 2022/10/27  | 如何实现在浏览器中编译Move合约                   | Owen wu                            | [bilibili](https://www.bilibili.com/video/BV1q24y1y79H) |
+| 2022/10/27  | Aptos/Sui Move 的差异 | Coming Chat  | [bilibili](https://www.bilibili.com/video/BV1Qd4y1x7qt) |
+| 2022/10/28  | Witness-based implementations in Sui Move        | Damir @Mysten Labs                   | [bilibili](https://www.bilibili.com/video/BV1EK411R7F3) |
+| 2022/10/28 | Move 合约中常用的编程模式                    | pause@Movefuns DAO                           | [bilibili](https://www.bilibili.com/video/BV1cP4y197WD) |
+| 2022/10/28 | Sui 基于对象的共识和编程范式 | 李大狗@NonceGeekDAO   | [bilibili](https://www.bilibili.com/video/BV1x14y1E7am) |
+| 2022/10/28 | 如何测试 Move 的合约      | AIVE@Westar Labs                  | [bilibili](https://www.bilibili.com/video/BV1mP4y1X7Dp) |
+| 2022/10/28 | 为什么要在 Sui 上建立 Mini-game Studio                  | Coming Chat                          | [bilibili](https://www.bilibili.com/video/BV1ZP411K7Pw) |
+
+
+
+
+
 ## Sui WeChat
