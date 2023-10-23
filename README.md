@@ -153,3 +153,12 @@
 | 2023/10/16  | Sui加强Lint和代码不规范提示工具，提高编码速度| [wechat](https://mp.weixin.qq.com/s/9FZDIBToI7ifLVfhIuX9kw) |
 | 2023/10/23  | Sui提供dApp Kit助力快速构建React Apps和dApps | [wechat](https://mp.weixin.qq.com/s/GWHkp0XNX_R0Bi0QgOK7Gg) |
                                                                                                                                                                                                
+### 李大狗公众号
+> Move dApp 极速入门
+
+| 日期     | 主题     | 链接           |
+|-----------|----------------|--------------------------------------|
+| 2022/12/24  | Sui 极速上手   | [wechat](https://mp.weixin.qq.com/s/jrz3p9x495HpAvQEYRNiZw) |
+| 2023/10/16  | SUI 合约测试攻略  | [wechat](https://mp.weixin.qq.com/s/IZTaj0bHUfzGxzDwdoMhOA) |
+| 2023/03/09  | Sui 链上数据查询  | [wechat](https://mp.weixin.qq.com/s/MT73QckvUPuJYsGoAbipyA) |
+| 2023/03/09  | Sui 上简单 Swap | [wechat](https://mp.weixin.qq.com/s/bb6LeBc2j5MAmYXI2umX7A) |
