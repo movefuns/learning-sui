@@ -100,3 +100,56 @@
 
 
 ## Sui WeChat
+
+| 日期     | 主题     | 链接           |
+|-----------|----------------|--------------------------------------|
+| 2023/04/13 | Sui Move Analyzer深入介绍分析                 | [wechat](https://mp.weixin.qq.com/s/fZO04nr0QN9eSS7yBr-DCw) |
+| 2023/04/17  | 如何理解Sui及其运行方式？  | [wechat](https://mp.weixin.qq.com/s/wJk5lTGz6p1nyuXzSMDiQA) |
+| 2023/04/22  | Sui Move Analyzer教程 | [wechat](https://www.bilibili.com/video/BV1s841187ny) |
+| 2023/04/25  | 一分钟了解Sui Network  | [wechat](https://mp.weixin.qq.com/s/WJOs8PcYMqy5b-2XZzDVag) |
+| 2023/04/28 | 手把手教你使用Sui Wallet                    | [wechat](https://mp.weixin.qq.com/s/ZqdfUoz66toZwsr01o3JwQ) |
+| 2023/05/04 | Sui开发人员备忘录                 | [wechat](https://mp.weixin.qq.com/s/uWWoTONzNvM0qLAzUayugw) |
+| 2023/05/08  | Sui改进提案（SIPs）及其审核流程 | [wechat](https://mp.weixin.qq.com/s/OhLsm9Bjag5Z3sXKp23l0w) |
+| 2023/05/16  | Sui NFT应用实例：将NFT变成咖啡！| [wechat](https://mp.weixin.qq.com/s/y4AjkL1m33jk6ftEHTT0QQ) |
+| 2023/05/19  | 一文快速了解浏览器Sui Explorer | [wechat](https://mp.weixin.qq.com/s/mjZGLgF_1mEHZlJkTIsjcw) |
+| 2023/05/23 | Sui Move Object讲解 | [wechat](https://mp.weixin.qq.com/s/AhkccUSrJ2HErez1E3A96Q) |
+| 2023/06/06 | Remix IDE已支持Sui Move在线开发 | [wechat](https://mp.weixin.qq.com/s/wYf9QsW8pYwlfnoNgJXa-g) |
+| 2023/06/13  | 如何开始使用Sui钱包 | [wechat](https://mp.weixin.qq.com/s/-_hCFUO-62hv9amPzmJdeg) |
+| 2023/06/22  | Sui链上事务处理概述 | [wechat](https://mp.weixin.qq.com/s/JTWmHIk-IWE88a30KzBHXg) |
+| 2023/06/27  | 密码学创新改变区块链 | [wechat](https://mp.weixin.qq.com/s/4jKuoCu9-H9XDesiYZ0VIg) |
+| 2023/06/28 | 详解多签钱包技术和使用 | [wechat](https://mp.weixin.qq.com/s/k5C7yHwH_uiHdXAbyhktwA) |
+| 2023/07/06 | 详细解读Sui Gas运作机制和其他你不知道的细节 | [wechat](https://mp.weixin.qq.com/s/bDR_Q0ih1gRX-7-jD0JOoQ) |
+| 2023/07/11  | Sui 8192：如何使用Sui对象撼动游戏领域 | [wechat](https://mp.weixin.qq.com/s/AqS-dYnaYGQS9RfBkesdaw) |
+| 2023/07/18  | 专访Move语言之父｜带你领略Sui Move的不同风采 | [wechat](https://mp.weixin.qq.com/s/NTyi7uthH-5yAMIkd3L5cg) |
+| 2023/07/19  | Sui经济模型之存储费用和那些你不知道的细节 | [wechat](https://mp.weixin.qq.com/s/vFK1aJ35kdJLafqE9GD38g) |
+| 2023/07/21 | Sui Move与标准Move的有哪些区别和根本性创新| [wechat](https://mp.weixin.qq.com/s/8RyWMn4CWpQfSZjDc7qViA) |
+| 2023/07/26  | Sui资产所有权如何让游戏体验更好 | [wechat](https://mp.weixin.qq.com/s/olTawXQOLyz6QGUoNno4GA) |
+| 2023/07/27  | 聊聊SUI质押是怎么回事，教你如何质押获取收益| [wechat](https://mp.weixin.qq.com/s/xERSRsoMMKnYmGKSkbicMw) |
+| 2023/08/01 | 安全事件频发，分享一些如何在Sui上构建安全应用的建议 | [wechat](https://mp.weixin.qq.com/s/a3a_DT-ySMH7Kq_bi2kj-g) |
+| 2023/08/04  | Sui的赞助交易(gas代付)，打开Web2用户丝滑使用Web3之路 | [wechat](https://mp.weixin.qq.com/s/ljTNuA-xrJUI3VfZa3GIUA) |
+| 2023/08/09  | 通过Shinami快速使用赞助交易(Gas代付) | [wechat](https://mp.weixin.qq.com/s/NTyi7uthH-5yAMIkd3L5cg) |
+| 2023/08/10  | Sui Move可编程交易让开发更高效，让交易轻松并发执行 | [wechat](https://mp.weixin.qq.com/s/yCMQKCORy33jkrGsLlHw9w) |
+| 2023/08/14 | 如何利用DeepBook自动做市商（AMM），发挥应用的最大价值 | [wechat](https://mp.weixin.qq.com/s/-zsE1g3FFRF45Bce19ffZQ) |
+| 2023/08/15  | 详解零知识证明 (ZKP) Groth16的可塑性 | [wechat](https://mp.weixin.qq.com/s/jVf1g6JxHXx9B0-A1dp1dw) |
+| 2023/08/23  | 全面了解零知识证明（ZKP） | [wechat](https://mp.weixin.qq.com/s/XkXg0H_AFGwtc3M2oyShUw) |
+| 2023/08/22  |集隐私通信、移动钱包、链上朋友圈和红包功能一体的社交应用ComingChat | [wechat](https://mp.weixin.qq.com/s/5VWdBsrUn-noJUFnOEb5KA) |
+| 2023/08/24  | 带您解读DeepBook经济原理| [wechat](https://mp.weixin.qq.com/s/Cm0qbEw3suoG3JPbtlggBQ) |
+| 2023/08/25  |什么是Sui Kiosk，它可以做什么，如何赋能创作者？ | [wechat](https://mp.weixin.qq.com/s/as5CIZysLiMQGRFfk9oGJw) |
+| 2023/08/28  |从底层看Sui设计理念及网络规模扩展 | [wechat](https://mp.weixin.qq.com/s/CHUTOTXvxMEOICLECav_vw) |
+| 2023/08/30  | Typus如何用Sui特性制作动态NFT为DeFi赋能 | [wechat](https://mp.weixin.qq.com/s/CnsvWvb_fYuDIGIoZj9JgQ) |
+| 2023/09/01 | 那些或许你并不知的SUI质押硬核知识 | [wechat](https://mp.weixin.qq.com/s/-VU-FTX47Sdac08I3lPJXA) |
+| 2023/09/06  | Sui上低Gas费为预言机注入强大动力 | [wechat](https://mp.weixin.qq.com/s/E955sFieIvA4jk1DdbgoPA) |
+| 2023/09/07  | Sui Lutris：Sui核心的分布式系统协议 | [wechat](https://mp.weixin.qq.com/s/tZWvk5KI-zGrsG82leV9Aw) |
+| 2023/09/08  |Mysten Labs发布Sui钱包漏洞赏金计划 | [wechat](https://mp.weixin.qq.com/s/PWOHdhbcJ6YvMxcD897T-Q) |
+| 2023/09/12  | Sui Move智能合约提供更智能和简单的编程 | [wechat](https://mp.weixin.qq.com/s/JlIXjCptdOesF74EzbBvNg) |
+| 2023/09/13  | 可编程交易区块为DeFi机器人提供强大动力 | [wechat](https://mp.weixin.qq.com/s/-_wtH9Oa9JOQwrk6ILhHLw) |
+| 2023/09/14  | 跨链协议支持Sui的资产所有权理念，助力资产在不同链之间流通 | [wechat](https://mp.weixin.qq.com/s/qVoJ8DFV6Xt6XtoeE0NbPQ) |
+| 2023/09/15  | Sui在商业技术堆栈中的地位 | [wechat](https://mp.weixin.qq.com/s/clwV-kXTiQTRKXa0DVOWlQ) |
+| 2023/09/18  | Sui zkLogin让真正链接10亿用户成为可能 | [wechat](https://mp.weixin.qq.com/s/r5kpRmvZiejfP_cOCkfCGg) |
+| 2023/09/25  | 轻松构建MEV机器人，维护Sui网络健康并获取收益 | [wechat](https://mp.weixin.qq.com/s/8l_N8hfPOWU7mJZDTW_eQA) |
+| 2023/10/02  | zkLogin构建者的最佳实践和业务思考 | [wechat](https://mp.weixin.qq.com/s/8BzyqYnjcaB-K9MvnH6nQQ) |
+| 2023/10/11  | 手机APP也可以学习Sui啦，通过EasyA开启你的学习之旅 | [wechat](https://mp.weixin.qq.com/s/PEukduCITPSr6mMNi9-yBg) |
+| 2023/10/12  | 以安全视角，深度剖析 Sui Staking 与 LSD | [wechat](https://mp.weixin.qq.com/s/0z33EoVuAWSgDg8aQXyGqA) |
+| 2023/10/16  | Sui加强Lint和代码不规范提示工具，提高编码速度| [wechat](https://mp.weixin.qq.com/s/9FZDIBToI7ifLVfhIuX9kw) |
+| 2023/10/23  | Sui提供dApp Kit助力快速构建React Apps和dApps | [wechat](https://mp.weixin.qq.com/s/GWHkp0XNX_R0Bi0QgOK7Gg) |
+                                                                                                                                                                                               
