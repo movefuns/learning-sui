@@ -41,6 +41,7 @@
 | 2023-08-24 | Sui 上期权的现况与未来发展方向                    | Tommy@Typus Finance                            | [Youtube](https://www.youtube.com/watch?v=sC-27jUIxHA) |
 | 2023-08-02 | Move 生态多签介绍与安全指南 | Orion@MoveBit  | [Youtube](https://www.youtube.com/watch?v=bYoablbK1zs) |
 | 2023-08-16 | zklogin 介绍和入门        | nanne @zkmove                   | [Youtube](https://www.youtube.com/watch?v=igh-wYkv2sg) |
+| 2023/10/25 | Obelisk Engine：Move 上的 AW 与全链游戏引擎 | Henry liu@Obelisk  | [Youtube](https://www.youtube.com/watch?v=iSf_KEg_CfU) |
 
 
 ## Move 共学社区第三期
@@ -77,7 +78,6 @@
 | 2023/09/12 | Sui 对象安全        | Leon@MoveBit                  | [Youtube](https://www.youtube.com/watch?v=WEBRZpTXGnc) |
 | 2023/09/13 | Sui Deep Book                   | Jian@Mysten labs                            | [Youtube](https://www.youtube.com/watch?v=cH3ehg_WO6M) |
 | 2023/09/14 | Coinflip  V1 to V2 | Justa@bucketprotocol  | [Youtube](https://www.youtube.com/watch?v=WRiK6jln7hY) |
-
 
 ## MoveFuns DAO Move DevConf
 > @online 2022年10月
